@@ -1,4 +1,4 @@
-{
+var = {
   "id": "ed4a32d5-1ea8-45ea-b7d2-fb4feb65d8bf",
   "version": "2.0",
   "name": "Test2",
